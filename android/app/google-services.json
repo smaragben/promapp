@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077876179329",
+    "project_id": "promracing-fbf5c",
+    "storage_bucket": "promracing-fbf5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077876179329:android:abf0014d95adc5b9406880",
+        "android_client_info": {
+          "package_name": "com.example.promracing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077876179329-j4dpkf6bg7pj8q5nam9nc419ru4qjf8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPN4N9BtlpWgcwtDAGnUhnrfHWf92tY9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077876179329-j4dpkf6bg7pj8q5nam9nc419ru4qjf8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
